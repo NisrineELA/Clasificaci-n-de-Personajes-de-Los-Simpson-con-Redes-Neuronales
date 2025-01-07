@@ -5,7 +5,6 @@ Este repositorio contiene el notebook de Jupyter correspondiente a la **Tarea 1*
 ## Contenido
 
 - `Tarea1 Nisrine El Allaoui.ipynb`: Notebook principal con el código, análisis y resultados.
-- [Otros archivos relevantes, si los hay]
 
 ## Requisitos
 
